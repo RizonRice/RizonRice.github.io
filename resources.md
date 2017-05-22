@@ -40,6 +40,7 @@ this enough. The problem you're encountering is most likely not unique. You're
 probably not the first to struggle with it. By looking online you will nearly
 always find your (or a similar) question that will help you get going again.
 
+* [searx](https://search.notoriousdev.com/)
 * [duckduckgo](https://duckduckgo/)
 * [google](https://google.com/)
 
