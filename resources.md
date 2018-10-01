@@ -105,6 +105,7 @@ It can be part of a desktop environment (DE) or be used standalone.
 - [chunkwm](https://github.com/koekeishiya/chunkwm)
 - [Phoenix](https://github.com/kasper/phoenix)
 - [ShiftIt](https://github.com/fikovnik/ShiftIt)
+- [Amethyst](https://github.com/ianyh/Amethyst)
 
 # Tiling
 
@@ -200,6 +201,7 @@ WSL Terminals:
 - [Iterm2](https://www.iterm2.com)
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
+- [Hyper](https://github.com/zeit/hyper)
 
 # Shells
 - [Awesome Shell](https://github.com/alebcay/awesome-shell)
@@ -267,6 +269,7 @@ sudo fc-cache -f -v
 - chrome://browser/content/browser.xul
 - [Nightly](https://nightly.mozilla.org)
 - [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish)
+- [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
 - [LINC](http://www.logicalincrements.com/firefox/)
 - [Twily's stuff](http://twily.info/firefox/stylish/)
 - [TinyCSS](http://noha-ra.deviantart.com/art/Tinycss-476413072)
